@@ -1,0 +1,32 @@
+button{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    background-color:indianred;
+    font-size: 30px;
+    border: none;
+}
+
+button:hover {
+    background-color: burlywood;
+}
+button:active{
+    background-color: aquamarine;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.instruction {
+    text-align: center;
+    font-size: 25px;
+}
+
+#Submit{
+    height : 30px;
+    width: 100px;
+    border-radius: 0;
+    font-size: 20px;
+    border:3px;
+}
